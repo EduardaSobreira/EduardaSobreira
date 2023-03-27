@@ -1,4 +1,4 @@
-## Oiii eu sou a Eduarda 
+## Oiii eu sou a Eduarda, sou desenvolvedora mobile
  
  
 <div> 
